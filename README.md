@@ -6,7 +6,7 @@ Pap Attila - backend
 
 FoxShop
 ==================================================
-Az eredeti 9tlet egy olyan webshop, ami ösztönözi a társadalmat a környezettudatosságra és tudatos összefogásra kapcsolatkiépítésen keresztül.
+Az eredeti ötlet egy olyan webshop, ami ösztönözi a társadalmat a környezettudatosságra és tudatos összefogásra kapcsolatkiépítésen keresztül.
 
 |A KKK elvárásainak megfelelően|
 ==================================================
