@@ -19,7 +19,7 @@ Miért egyedi a FoxyShop?
 A hagyományos webáruházaktól eltérően a FoxyShop nem csupán egy tranzakciós felület. A közösségi fórum integrációjával edukatív funkciót is betölt: a vásárlás folyamata mellett a közösség aktív tagjait környezettudatos szemléletre ösztönzi. A projekt elsődleges célja nem csupán az értékesítés, hanem a fiatalok bevonása egy olyan digitális környezetbe, ahol a tudatos vásárlás és a minőségi kommunikáció kéz a kézben járnak.
 
 |A KKK elvárásainak megfelelően|
-==================================================
+-------------------------------
 •	Valódi probléma: Életszerű, létező problémára kell megoldást nyújtania. 
 
 •	Adatkezelés: Adattárolási és adatkezelési funkciókat kell megvalósítania.
@@ -47,7 +47,7 @@ A projektet GitHubon vagy hasonló szolgáltatáson keresztül kell megosztani, 
 •	Tesztelési anyagok: A futtatott tesztekhez írt kód (tesztkód), valamint a kapott teszteredmények dokumentációja.
 
 |További Témaötleteink|
-==================================================
+----------------------
 Apróhirdetés portál - Helyi szolgáltatások adásvételére specializálódott és olyan mindennapi teendőkre fókuszál, mint pl a fűnyírás, a korrepetálás vagy a kutyasétáltatás. Bárki könnyedén feladhatja a saját hirdetését, ha segítséget keres vagy kínál. Gyorsan és egyszerűen lehet böngészni a környéken elérkező megbízások és szabad segítők között
 
 Iskolatúra – egy alkalmazás, amely osztálykirándulások, túrák megtervezésére szakosodna. Igyekszik megkönnyíteni az osztályfőnökök munkáját megkönnyíteni megfelelő célpontok, utazási módszerek és felkészültség ellenőrzésén keresztül. 
