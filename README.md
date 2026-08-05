@@ -26,31 +26,34 @@ A projekt 2 társadalmi problémára nyújt megoldást:
 
     Környezettudatosság hiánya: A gyorsan változó pénzügyi és piaci környezetben kevés hangsúly kerül a környezettudatos gondolkodásmód fejlesztésére.
 
-    Kommunikációs nehézségek: A mai fiatalok gyakran nehezebben folytatnak minőségi, mélyreható párbeszédeket; ezt a problémát egy beépített fórummall kezeljük.
+    Kommunikációs nehézségek: A mai fiatalok gyakran nehezebben folytatnak minőségi, mélyreható párbeszédeket; ezt a problémát egy beépített fórummal kezeljük.
 
-
-
+(Megfelelés a KKK elvárásának – Valódi probléma: A szoftver valós, mindennapi társadalmi kihívásokra – a környezettudatosság hiányára és a generációs kommunikációs nehézségekre – kínál kézzelfogható digitális megoldást.)
 Műszaki és Technológia megvalósítás:
+
+
 
 A szoftver RESTful architektúrára épül, biztosítva a szétválasztott szerver- és kliensoldali működést.
 
     Skálázhatóság: Mivel a rendszer RESTful architektúrára épül, a szerveroldal stateless, ami lehetővé teszi, hogy a terhelést több szerver között osszuk meg. A nagy felhasználói szám kezelése érdekében a jövőben adatbázis-optimalizációt, indexelést, valamint a gyakran kért adatok gyorsítótárazását tervezzük alkalmazni, így elkerülve a szerver túlterhelését.
 
-    Használt Technológiák: Visual Studio, C#, HTML, CSS
+    Használt Technológiák: Visual Studio, C#, Angular, HTML, CSS, TypeScript
 
     Verziókezelés: Github, Github Desktop
 
 
 
+(Megfelelés a KKK elvárásának – RESTful architektúra: A C# alapú backend szerver és az Angular alapú frontend kliens teljesen szétváltan működik. A kommunikáció HTTP kéréseken keresztül, JSON formátumban történik, és a szerver stateless módon szolgálja ki a klienseket.)
 Fő funkciók:
 
     Webshop: Fox-tematikájú termékek (ruhák, kiegészítők...) értékesítése, árusítása.
 
     Fórum: Közösségi tér, ahol a felhasználók a rókákról vagy hétköznapi témákról beszélgethetnek.
 
-
-
+(Megfelelés a KKK elvárásának – Asztali és mobil használat: Az Angular keretrendszer reszponzív kialakításának köszönhetően a kliensoldali felület zökkenőmentesen és azonos élménnyel használható asztali számítógépeken, valamint mobil eszközök böngészőjében is.)
 Adatkezelés és biztonság:
+
+
 
 A rendszer biztonságos felhasználói hitelesítést alkalmaz:
 
@@ -74,7 +77,7 @@ A rendszer biztonságos felhasználói hitelesítést alkalmaz:
 
 •	Asztali és mobil használat: A kliensoldali résznek alkalmasnak kell lennie mindkét platformra. Mobilnál natív app vagy azzal egyenértékű webes kliens is elfogadott. Asztali eszközre kötelező a webes megvalósítás, de mellé választható natív asztali app is.
 
-•	Tiszta kód: A forráskódnak kötelezően követnie kell a tiszta kód (clean code) alapelveit.
+•	Tiszta kód: A forráskódnak kötelezően követnie kell a tiszta kód (clean code) alapelveit. (A fejlesztés során alkalmazott modulos komponensépítés, átlátható névhasználat és struktúra biztosítja)
 
 •	Dokumentáció: Kötelező hozzá egy technikai leírást, működési feltételeket és rövid használati útmutatót tartalmazó dokumentáció.
 
@@ -82,7 +85,7 @@ A projektet GitHubon vagy hasonló szolgáltatáson keresztül kell megosztani, 
 
 •	Forráskód: A szoftver teljes, tiszta kódú forráskódja.
 
-•	Telepítőkészlet: Natív asztali alkalmazás fejlesztése esetén a program telepítőfájlja.
+•	Telepítőkészlet: Natív asztali alkalmazás fejlesztése esetén a program telepítőfájlja. (Jelen webes/Angular projektnél a webes kliens miatt nem releváns, de a szerver/backend futtatható csomagja biztosított).
 
 •	Adatbázismodell-diagram: Az adatbázis szerkezetét bemutató diagram.
 
