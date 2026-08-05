@@ -10,6 +10,14 @@ FoxShop
 ==================================================
 Az eredeti ötlet egy olyan webshop, ami ösztönözi a társadalmat a környezettudatosságra és tudatos összefogásra kapcsolatkiépítésen keresztül.
 
+A projekt célja:
+---------------
+A FoxyShop egy átfogó webes platform, amely egy róka-tematikájú online kereskedelmi felületet biztosít, emellett pedig egy edukatív környezetet teremt a fiatalabb generációk számára. A projekt célja, hogy a rókák szimbolikáján keresztül ösztönözze a felhasználókat a környezettudatosságra, valamint fejlessze a közösségi kommunikációs képességeket.
+
+Miért egyedi a FoxyShop?
+-----------------------
+A hagyományos webáruházaktól eltérően a FoxyShop nem csupán egy tranzakciós felület. A közösségi fórum integrációjával edukatív funkciót is betölt: a vásárlás folyamata mellett a közösség aktív tagjait környezettudatos szemléletre ösztönzi. A projekt elsődleges célja nem csupán az értékesítés, hanem a fiatalok bevonása egy olyan digitális környezetbe, ahol a tudatos vásárlás és a minőségi kommunikáció kéz a kézben járnak.
+
 |A KKK elvárásainak megfelelően|
 ==================================================
 •	Valódi probléma: Életszerű, létező problémára kell megoldást nyújtania. 
