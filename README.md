@@ -100,4 +100,3 @@ A projektet GitHubon vagy hasonló szolgáltatáson keresztül kell megosztani, 
 Apróhirdetés portál - Helyi szolgáltatások adásvételére specializálódott és olyan mindennapi teendőkre fókuszál, mint pl a fűnyírás, a korrepetálás vagy a kutyasétáltatás. Bárki könnyedén feladhatja a saját hirdetését, ha segítséget keres vagy kínál. Gyorsan és egyszerűen lehet böngészni a környéken elérkező megbízások és szabad segítők között
 
 Iskolatúra – egy alkalmazás, amely osztálykirándulások, túrák megtervezésére szakosodna. Igyekszik megkönnyíteni az osztályfőnökök munkáját megkönnyíteni megfelelő célpontok, utazási módszerek és felkészültség ellenőrzésén keresztül. 
-
