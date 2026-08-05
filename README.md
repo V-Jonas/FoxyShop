@@ -6,7 +6,7 @@ Pál Petúr - frontend
 
 Pap Attila - backend
 
-FoxShop
+FoxyShop
 ==================================================
 Az eredeti ötlet egy olyan webshop, ami ösztönözi a társadalmat a környezettudatosságra és tudatos összefogásra kapcsolatkiépítésen keresztül.
 
