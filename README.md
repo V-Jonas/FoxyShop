@@ -1,7 +1,9 @@
 |Csapattagok| 
-==================================================
+
 Jónás Viktor (projektvezető) - adatbázis
+
 Pál Petúr - frontend
+
 Pap Attila - backend
 
 FoxShop
