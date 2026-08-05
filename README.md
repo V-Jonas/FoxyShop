@@ -18,6 +18,52 @@ Miért egyedi a FoxyShop?
 -----------------------
 A hagyományos webáruházaktól eltérően a FoxyShop nem csupán egy tranzakciós felület. A közösségi fórum integrációjával edukatív funkciót is betölt: a vásárlás folyamata mellett a közösség aktív tagjait környezettudatos szemléletre ösztönzi. A projekt elsődleges célja nem csupán az értékesítés, hanem a fiatalok bevonása egy olyan digitális környezetbe, ahol a tudatos vásárlás és a minőségi kommunikáció kéz a kézben járnak.
 
+
+
+Mire nyújt megoldást?
+
+A projekt 2 társadalmi problémára nyújt megoldást:
+
+    Környezettudatosság hiánya: A gyorsan változó pénzügyi és piaci környezetben kevés hangsúly kerül a környezettudatos gondolkodásmód fejlesztésére.
+
+    Kommunikációs nehézségek: A mai fiatalok gyakran nehezebben folytatnak minőségi, mélyreható párbeszédeket; ezt a problémát egy beépített fórummall kezeljük.
+
+
+
+Műszaki és Technológia megvalósítás:
+
+A szoftver RESTful architektúrára épül, biztosítva a szétválasztott szerver- és kliensoldali működést.
+
+    Skálázhatóság: Mivel a rendszer RESTful architektúrára épül, a szerveroldal stateless, ami lehetővé teszi, hogy a terhelést több szerver között osszuk meg. A nagy felhasználói szám kezelése érdekében a jövőben adatbázis-optimalizációt, indexelést, valamint a gyakran kért adatok gyorsítótárazását tervezzük alkalmazni, így elkerülve a szerver túlterhelését.
+
+    Használt Technológiák: Visual Studio, C#, HTML, CSS
+
+    Verziókezelés: Github, Github Desktop
+
+
+
+Fő funkciók:
+
+    Webshop: Fox-tematikájú termékek (ruhák, kiegészítők...) értékesítése, árusítása.
+
+    Fórum: Közösségi tér, ahol a felhasználók a rókákról vagy hétköznapi témákról beszélgethetnek.
+
+
+
+Adatkezelés és biztonság:
+
+A rendszer biztonságos felhasználói hitelesítést alkalmaz:
+
+    Regisztráció: Felhasználónév, jelszó (minimum 8 karakter, nagy- és kisbetűk, számok és szimbólumok használata).
+
+    Belépés: A hitelesítés ugyanazokat az információkat kéri be, amit a regisztráció során a felhasználó megadott, de emellett e-mail cím alapú alternatívával is kiegészített.
+
+    Validáció: A bemeneti adatok ellenőrzése mind kliens-, mind szerveroldalon megvalósításra került az adatbiztonság érdekében.
+
+    Biztonsági kockázatok: Bár a rendszer validációval védett, a webáruház ki van téve olyan gyakori támadásoknak, mint az SQL injection, valamint a Cross-Site Scripting (mely során a fórumon keresztül kártékony scripteket futtatnának), illetve a Brute Force támadások, amelyek a jelszavak kitalálására irányulnak. Emiatt a jelszavak titkosított tárolása és a bemeneti adatok szigorú szűrése kiemelt feladatunk volt a fejlesztés során.
+
+
+
 |A KKK elvárásainak megfelelően|
 ==================================================
 •	Valódi probléma: Életszerű, létező problémára kell megoldást nyújtania. 
